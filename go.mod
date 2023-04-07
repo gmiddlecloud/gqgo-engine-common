@@ -133,4 +133,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/zeromicro/go-zero v1.5.0 => github.com/gmiddlecloud/gqgo-engine-tools v1.0.3
+replace github.com/zeromicro/go-zero v1.5.0 => github.com/gmiddlecloud/gqgo-engine-tools v1.0.7
